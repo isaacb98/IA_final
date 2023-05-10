@@ -1,5 +1,11 @@
 # Information Arhcitecture Final Overview
 
+Questions that we are trying to answer with this project
+
+1. How to choose restaurant based on cleanliness and rating?
+2. Does a bad government health grading condemn a restaurant to failure?
+3. Does a good government health grading ensure a good customer experience?
+
 ### Step 1 - Define the problem
 
 Our group identified a need to gather data on the health ratings of restaurants in Manhattan and their corresponding Yelp reviews in order to determine if the health rating provided by the government was correlated to the customers enjoying more or less the restaurant. 
@@ -27,3 +33,9 @@ With Tableau, we were able to create visualizations that helped us identify tren
 ### Conclusion
 
 Overall, our group's project was a combination of Python, AWS services, and Tableau. By automating the data collection process, storing it in a database, and visualizing it in a meaningful way, we were able to provide valuable insights into the health ratings of restaurants in Manhattan. This project demonstrates the power of technology and data analysis in solving real-world problems.
+
+### Answers to initial questions after the project 
+
+1. How to choose restaurant based on cleanliness and rating? Please see Dashboard 1 visualization to a detailed analysis. 
+2. Does a bad government health grading condemn a restaurant to failure? According to our research, the government cleanliness rating does not influence in the user experience in the restaurant. 
+3. Does a good government health grading ensure a good customer experience? It does not!
