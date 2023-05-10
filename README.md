@@ -27,4 +27,3 @@ With Tableau, we were able to create visualizations that helped us identify tren
 ### Conclusion
 
 Overall, our group's project was a combination of Python, AWS services, and Tableau. By automating the data collection process, storing it in a database, and visualizing it in a meaningful way, we were able to provide valuable insights into the health ratings of restaurants in Manhattan. This project demonstrates the power of technology and data analysis in solving real-world problems.
-![image](https://github.com/isaacb98/IA_final/assets/112417920/3f19f202-3f2a-4c61-bbcf-37b1ae4263c0)
