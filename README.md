@@ -1,4 +1,4 @@
-# Information Arhcitecture Final Overview
+# Information Arhcitecture Final Overview - Group 4
 
 Questions that we are trying to answer with this project
 
